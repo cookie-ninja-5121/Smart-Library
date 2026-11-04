@@ -1,0 +1,6 @@
+
+customtkinter
+Pillow
+mysql-connector-python
+pyserial
+bcrypt
